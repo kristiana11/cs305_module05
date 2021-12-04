@@ -9,3 +9,6 @@ I like CHICKEN!
 
 # License
 See LICENSE for more information
+
+# Colaborators
+Nicholas Robishaw
