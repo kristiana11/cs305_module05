@@ -13,5 +13,5 @@ See LICENSE for more information
 # Colaborators
 Nicholas Robishaw
 (My favorite type of food is Italian food)
-Brett Lewerke
+#Brett Lewerke
 (My favorite type of food is Asian food)
